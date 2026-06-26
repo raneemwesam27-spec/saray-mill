@@ -5,9 +5,14 @@ import { useState } from "react";
 interface Props {
   className?: string;
   fallbackClass?: string;
+  priority?: boolean;
 }
 
-export default function LogoImage({ className = "", fallbackClass = "text-2xl" }: Props) {
+export default function LogoImage({
+  className = "",
+  fallbackClass = "text-2xl",
+  priority = false,
+}: Props) {
   const [failed, setFailed] = useState(false);
 
   if (failed) {
@@ -24,13 +29,11 @@ export default function LogoImage({ className = "", fallbackClass = "text-2xl" }
       src="/saray-mill-logo.png"
       alt="Saray Mill"
       className={`w-full h-full object-cover ${className}`}
-      onError={(e) => {
-        console.error("Logo failed to load:", (e.target as HTMLImageElement).src);
-        setFailed(true);
-      }}
-      onLoad={(e) => {
-        console.log("Logo loaded successfully:", (e.target as HTMLImageElement).src);
-      }}
+      loading={priority ? "eager" : "lazy"}
+      // @ts-expect-error fetchpriority is valid HTML but not yet in React types
+      fetchpriority={priority ? "high" : "auto"}
+      decoding={priority ? "sync" : "async"}
+      onError={() => setFailed(true)}
     />
   );
 }

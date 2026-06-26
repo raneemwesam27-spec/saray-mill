@@ -34,7 +34,7 @@ export default function HomePage() {
         <div className="relative z-10 px-6 animate-[fadeIn_1s_ease-out]">
           {/* Logo */}
           <div className="w-28 h-28 md:w-36 md:h-36 mx-auto mb-6 rounded-full overflow-hidden">
-            <LogoImage fallbackClass="text-5xl" />
+            <LogoImage fallbackClass="text-5xl" priority />
           </div>
 
           {/* Store name */}
