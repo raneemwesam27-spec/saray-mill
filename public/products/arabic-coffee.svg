@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#1a0f08"/>
+  <circle cx="200" cy="200" r="140" fill="#2a1a0e" stroke="#b8860b" stroke-width="2" opacity="0.6"/>
+  <!-- Dallah (Arabic coffee pot) -->
+  <!-- Body -->
+  <path d="M160 280 Q145 240 150 200 Q155 165 175 155 Q195 148 215 155 Q235 165 240 200 Q245 240 230 280Z" fill="#C8A020" stroke="#b8860b" stroke-width="1.5"/>
+  <path d="M163 275 Q150 238 155 200 Q160 168 178 159 Q196 152 216 159 Q234 168 238 200 Q242 238 230 275Z" fill="#D4AE38"/>
+  <!-- Neck -->
+  <rect x="183" y="135" width="34" height="22" rx="4" fill="#C8A020" stroke="#b8860b" stroke-width="1"/>
+  <!-- Lid -->
+  <ellipse cx="200" cy="133" rx="22" ry="10" fill="#D4B040" stroke="#b8860b" stroke-width="1"/>
+  <ellipse cx="200" cy="128" rx="8" ry="6" fill="#b8860b"/>
+  <!-- Spout -->
+  <path d="M152 195 Q125 185 120 200 Q115 215 130 220 Q142 220 152 215" fill="#C09015" stroke="#b8860b" stroke-width="1"/>
+  <!-- Handle -->
+  <path d="M240 185 Q268 180 272 205 Q275 225 252 230 Q244 230 240 220" fill="none" stroke="#b8860b" stroke-width="3" stroke-linecap="round"/>
+  <!-- Base -->
+  <ellipse cx="195" cy="282" rx="40" ry="8" fill="#b8860b" opacity="0.4"/>
+  <!-- Coffee beans -->
+  <ellipse cx="155" cy="310" rx="10" ry="7" fill="#4a2c0a" transform="rotate(-20 155 310)"/>
+  <line x1="151" y1="307" x2="159" y2="313" stroke="#2a1a05" stroke-width="1"/>
+  <ellipse cx="200" cy="315" rx="10" ry="7" fill="#3a2008"/>
+  <line x1="196" y1="312" x2="204" y2="318" stroke="#2a1a05" stroke-width="1"/>
+  <ellipse cx="245" cy="310" rx="10" ry="7" fill="#4a2c0a" transform="rotate(20 245 310)"/>
+  <line x1="241" y1="313" x2="249" y2="307" stroke="#2a1a05" stroke-width="1"/>
+  <text x="200" y="345" font-family="serif" font-size="14" fill="#d4a843" text-anchor="middle" font-weight="bold">قهوة عربية</text>
+</svg>

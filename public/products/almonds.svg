@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#1a0f08"/>
+  <circle cx="200" cy="200" r="140" fill="#2a1a0e" stroke="#b8860b" stroke-width="2" opacity="0.6"/>
+  <ellipse cx="170" cy="185" rx="22" ry="40" fill="#C8A96E" transform="rotate(-15 170 185)"/>
+  <ellipse cx="170" cy="185" rx="19" ry="37" fill="#E0C490" transform="rotate(-15 170 185)"/>
+  <line x1="163" y1="158" x2="168" y2="210" stroke="#A08040" stroke-width="1.5" transform="rotate(-15 170 185)"/>
+  <ellipse cx="210" cy="175" rx="22" ry="40" fill="#BE9F64" transform="rotate(10 210 175)"/>
+  <ellipse cx="210" cy="175" rx="19" ry="37" fill="#D6B880" transform="rotate(10 210 175)"/>
+  <line x1="203" y1="148" x2="208" y2="200" stroke="#907830" stroke-width="1.5" transform="rotate(10 210 175)"/>
+  <ellipse cx="188" cy="245" rx="22" ry="40" fill="#D4AA74" transform="rotate(-5 188 245)"/>
+  <ellipse cx="188" cy="245" rx="19" ry="37" fill="#EAC894" transform="rotate(-5 188 245)"/>
+  <line x1="181" y1="218" x2="186" y2="270" stroke="#A08040" stroke-width="1.5" transform="rotate(-5 188 245)"/>
+  <text x="200" y="340" font-family="serif" font-size="16" fill="#d4a843" text-anchor="middle" font-weight="bold">لوز محمص</text>
+</svg>

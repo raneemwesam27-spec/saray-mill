@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#1a0f08"/>
+  <circle cx="200" cy="200" r="140" fill="#2a1a0e" stroke="#b8860b" stroke-width="2" opacity="0.6"/>
+  <!-- Walnut shape -->
+  <ellipse cx="160" cy="170" rx="38" ry="30" fill="#8B6914" opacity="0.9"/>
+  <ellipse cx="160" cy="170" rx="35" ry="27" fill="#A0782A"/>
+  <path d="M140 160 Q160 155 180 160 Q160 165 140 160" stroke="#6B4F10" stroke-width="1.5" fill="none"/>
+  <!-- Cashew shape -->
+  <path d="M220 150 Q260 140 265 175 Q270 200 240 205 Q210 205 215 180 Q215 165 220 150Z" fill="#D4A843" opacity="0.9"/>
+  <path d="M225 155 Q258 147 262 178 Q265 198 240 200" stroke="#b8860b" stroke-width="1.5" fill="none"/>
+  <!-- Almond -->
+  <ellipse cx="175" cy="230" rx="20" ry="35" fill="#C8A96E" transform="rotate(-20 175 230)"/>
+  <ellipse cx="175" cy="230" rx="17" ry="32" fill="#E0C090" transform="rotate(-20 175 230)"/>
+  <!-- Pistachio -->
+  <ellipse cx="230" cy="240" rx="22" ry="17" fill="#8B9B5A" opacity="0.9"/>
+  <ellipse cx="230" cy="240" rx="19" ry="14" fill="#A8B870"/>
+  <!-- Decorative dots -->
+  <circle cx="200" cy="200" r="3" fill="#b8860b" opacity="0.4"/>
+  <!-- Label area -->
+  <rect x="100" y="310" width="200" height="40" rx="4" fill="#b8860b" opacity="0.15"/>
+  <text x="200" y="336" font-family="serif" font-size="16" fill="#d4a843" text-anchor="middle" font-weight="bold">مكسرات مشكلة</text>
+</svg>

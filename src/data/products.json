@@ -1,0 +1,91 @@
+[
+  {
+    "id": "mixed-nuts-500g",
+    "nameAr": "مكسرات مشكلة",
+    "nameEn": "Mixed Nuts",
+    "category": "nuts",
+    "featured": true,
+    "image": "/products/mixed-nuts.svg",
+    "weights": [
+      { "label": "250g", "price": 1.850 },
+      { "label": "500g", "price": 3.500 },
+      { "label": "1kg",  "price": 6.750 }
+    ]
+  },
+  {
+    "id": "cashews-premium",
+    "nameAr": "كاجو فاخر",
+    "nameEn": "Cashews Premium",
+    "category": "nuts",
+    "featured": true,
+    "image": "/products/cashews.svg",
+    "weights": [
+      { "label": "250g", "price": 2.250 },
+      { "label": "500g", "price": 4.250 },
+      { "label": "1kg",  "price": 8.000 }
+    ]
+  },
+  {
+    "id": "almonds-roasted",
+    "nameAr": "لوز محمص",
+    "nameEn": "Almonds Roasted",
+    "category": "nuts",
+    "featured": false,
+    "image": "/products/almonds.svg",
+    "weights": [
+      { "label": "250g", "price": 2.000 },
+      { "label": "500g", "price": 3.750 },
+      { "label": "1kg",  "price": 7.000 }
+    ]
+  },
+  {
+    "id": "medjool-dates",
+    "nameAr": "تمر مجدول",
+    "nameEn": "Medjool Dates",
+    "category": "dates",
+    "featured": true,
+    "image": "/products/medjool.svg",
+    "weights": [
+      { "label": "250g", "price": 2.500 },
+      { "label": "500g", "price": 4.500 },
+      { "label": "1kg",  "price": 8.500 }
+    ]
+  },
+  {
+    "id": "sukkari-dates",
+    "nameAr": "تمر سكري",
+    "nameEn": "Sukkari Dates",
+    "category": "dates",
+    "featured": true,
+    "image": "/products/sukkari.svg",
+    "weights": [
+      { "label": "250g", "price": 1.750 },
+      { "label": "500g", "price": 3.250 },
+      { "label": "1kg",  "price": 6.000 }
+    ]
+  },
+  {
+    "id": "arabic-coffee",
+    "nameAr": "قهوة عربية مطحونة",
+    "nameEn": "Arabic Coffee Ground",
+    "category": "coffee",
+    "featured": false,
+    "image": "/products/arabic-coffee.svg",
+    "weights": [
+      { "label": "250g", "price": 2.750 },
+      { "label": "500g", "price": 5.250 }
+    ]
+  },
+  {
+    "id": "turkish-coffee",
+    "nameAr": "قهوة تركية",
+    "nameEn": "Turkish Coffee",
+    "category": "coffee",
+    "featured": false,
+    "image": "/products/turkish-coffee.svg",
+    "weights": [
+      { "label": "250g", "price": 2.500 },
+      { "label": "500g", "price": 4.750 }
+    ]
+  }
+]

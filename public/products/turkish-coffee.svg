@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#1a0f08"/>
+  <circle cx="200" cy="200" r="140" fill="#2a1a0e" stroke="#b8860b" stroke-width="2" opacity="0.6"/>
+  <!-- Cezve (Turkish coffee pot) -->
+  <!-- Body - wider at top, narrow base -->
+  <path d="M162 270 Q158 240 162 220 Q165 205 175 200 Q185 196 200 196 Q215 196 225 200 Q235 205 238 220 Q242 240 238 270Z" fill="#b8860b" stroke="#96700a" stroke-width="1.5"/>
+  <path d="M165 265 Q162 238 165 220 Q168 207 177 203 Q187 199 200 199 Q213 199 223 203 Q232 207 235 220 Q238 238 235 265Z" fill="#C89020"/>
+  <!-- Neck - narrower -->
+  <rect x="185" y="182" width="30" height="18" rx="3" fill="#b8860b"/>
+  <rect x="187" y="184" width="26" height="15" rx="2" fill="#C89020"/>
+  <!-- Rim - flared out -->
+  <ellipse cx="200" cy="182" rx="28" ry="7" fill="#D4A030" stroke="#b8860b" stroke-width="1"/>
+  <!-- Handle -->
+  <path d="M238 230 Q270 228 272 248 Q273 264 248 265 Q240 264 238 258" fill="none" stroke="#b8860b" stroke-width="4" stroke-linecap="round"/>
+  <path d="M238 230 Q268 228 270 247 Q271 262 248 263" fill="none" stroke="#D4A030" stroke-width="2" stroke-linecap="round"/>
+  <!-- Coffee foam at top -->
+  <ellipse cx="200" cy="182" rx="23" ry="5" fill="#3a2010" opacity="0.8"/>
+  <ellipse cx="197" cy="181" rx="8" ry="2.5" fill="#5a3820" opacity="0.6"/>
+  <!-- Steam lines -->
+  <path d="M185 175 Q183 165 186 158 Q188 150 185 143" fill="none" stroke="#b8860b" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <path d="M200 173 Q198 163 201 156 Q203 148 200 141" fill="none" stroke="#b8860b" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <path d="M215 175 Q213 165 216 158 Q218 150 215 143" fill="none" stroke="#b8860b" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <!-- Base ring -->
+  <ellipse cx="200" cy="271" rx="40" ry="6" fill="#96700a" opacity="0.5"/>
+  <!-- Coffee beans scattered -->
+  <ellipse cx="148" cy="295" rx="10" ry="7" fill="#2a1505" transform="rotate(-30 148 295)"/>
+  <line x1="144" y1="292" x2="152" y2="298" stroke="#150b02" stroke-width="1.2"/>
+  <ellipse cx="200" cy="300" rx="10" ry="7" fill="#321808"/>
+  <line x1="196" y1="297" x2="204" y2="303" stroke="#150b02" stroke-width="1.2"/>
+  <ellipse cx="252" cy="295" rx="10" ry="7" fill="#2a1505" transform="rotate(30 252 295)"/>
+  <line x1="248" y1="298" x2="256" y2="292" stroke="#150b02" stroke-width="1.2"/>
+  <text x="200" y="340" font-family="serif" font-size="15" fill="#d4a843" text-anchor="middle" font-weight="bold">قهوة تركية</text>
+</svg>

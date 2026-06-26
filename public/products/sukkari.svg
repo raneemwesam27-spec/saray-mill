@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#1a0f08"/>
+  <circle cx="200" cy="200" r="140" fill="#2a1a0e" stroke="#b8860b" stroke-width="2" opacity="0.6"/>
+  <!-- Golden sukkari dates - lighter color -->
+  <line x1="200" y1="80" x2="178" y2="145" stroke="#7a5820" stroke-width="2"/>
+  <line x1="200" y1="80" x2="200" y2="148" stroke="#7a5820" stroke-width="2"/>
+  <line x1="200" y1="80" x2="228" y2="140" stroke="#7a5820" stroke-width="2"/>
+  <line x1="200" y1="80" x2="162" y2="162" stroke="#7a5820" stroke-width="1.5"/>
+  <line x1="200" y1="80" x2="242" y2="158" stroke="#7a5820" stroke-width="1.5"/>
+  <!-- Sukkari dates - golden/amber color -->
+  <ellipse cx="178" cy="170" rx="18" ry="28" fill="#C8860A"/>
+  <ellipse cx="178" cy="170" rx="16" ry="26" fill="#D4943A"/>
+  <ellipse cx="200" cy="172" rx="18" ry="28" fill="#BE7E08"/>
+  <ellipse cx="200" cy="172" rx="16" ry="26" fill="#CC8C28"/>
+  <ellipse cx="228" cy="165" rx="18" ry="28" fill="#D09010"/>
+  <ellipse cx="228" cy="165" rx="16" ry="26" fill="#DCA030"/>
+  <ellipse cx="158" cy="187" rx="16" ry="25" fill="#C88A12"/>
+  <ellipse cx="158" cy="187" rx="14" ry="23" fill="#D4983A"/>
+  <ellipse cx="245" cy="182" rx="16" ry="25" fill="#BA8008"/>
+  <ellipse cx="245" cy="182" rx="14" ry="23" fill="#C88C20"/>
+  <!-- Highlights -->
+  <ellipse cx="174" cy="162" rx="5" ry="7" fill="#F0B840" opacity="0.5"/>
+  <ellipse cx="196" cy="164" rx="5" ry="7" fill="#E8A830" opacity="0.5"/>
+  <text x="200" y="340" font-family="serif" font-size="16" fill="#d4a843" text-anchor="middle" font-weight="bold">تمر سكري</text>
+</svg>

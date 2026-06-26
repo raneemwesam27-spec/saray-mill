@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#1a0f08"/>
+  <circle cx="200" cy="200" r="140" fill="#2a1a0e" stroke="#b8860b" stroke-width="2" opacity="0.6"/>
+  <!-- Multiple cashew shapes -->
+  <path d="M130 155 Q175 135 185 175 Q195 210 165 220 Q130 225 125 195 Q120 175 130 155Z" fill="#D4A843" opacity="0.85"/>
+  <path d="M135 162 Q173 143 181 178 Q190 208 163 215" stroke="#b8860b" stroke-width="1.5" fill="none"/>
+  <path d="M200 175 Q245 155 255 195 Q265 230 235 240 Q200 245 195 215 Q190 195 200 175Z" fill="#E0BE78" opacity="0.9"/>
+  <path d="M205 183 Q243 163 251 198 Q259 228 233 236" stroke="#b8860b" stroke-width="1.5" fill="none"/>
+  <path d="M155 240 Q200 220 210 260 Q220 295 190 305 Q155 310 150 280 Q145 260 155 240Z" fill="#C8A060" opacity="0.8"/>
+  <path d="M160 248 Q198 228 206 263 Q214 293 188 301" stroke="#96740a" stroke-width="1.5" fill="none"/>
+  <text x="200" y="340" font-family="serif" font-size="16" fill="#d4a843" text-anchor="middle" font-weight="bold">كاجو فاخر</text>
+</svg>
